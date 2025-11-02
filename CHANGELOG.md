@@ -1,5 +1,33 @@
 # Changelog
 
+## [4.5.0](https://github.com/ellite/Wallos/compare/v4.4.1...v4.5.0) (2025-10-18)
+
+
+### Features
+
+* enforce CSRF protection and POST-only policy across endpoints ([#940](https://github.com/ellite/Wallos/issues/940)) ([3247ce2](https://github.com/ellite/Wallos/commit/3247ce2c8768d8e5910f74e5b8eba657b5b05cc1))
+
+## [4.4.1](https://github.com/ellite/Wallos/compare/v4.4.0...v4.4.1) (2025-10-12)
+
+
+### Bug Fixes
+
+* get_subscriptions api endpoint was not returning subscriptions ([#937](https://github.com/ellite/Wallos/issues/937)) ([d6329a7](https://github.com/ellite/Wallos/commit/d6329a7af5a48f74b5f1d44a51cdc8c09dc2508b))
+
+## [4.4.0](https://github.com/ellite/Wallos/compare/v4.3.0...v4.4.0) (2025-10-12)
+
+
+### Features
+
+* add mattermost notifications ([#923](https://github.com/ellite/Wallos/issues/923)) ([#934](https://github.com/ellite/Wallos/issues/934)) ([5629a31](https://github.com/ellite/Wallos/commit/5629a319bc5eb6cb80abfca06725aed9d2d9df88))
+* add openrouter ai endpoint ([#922](https://github.com/ellite/Wallos/issues/922)) ([5629a31](https://github.com/ellite/Wallos/commit/5629a319bc5eb6cb80abfca06725aed9d2d9df88))
+* enhance get_subscriptions API with admin access ([#928](https://github.com/ellite/Wallos/issues/928)) ([5629a31](https://github.com/ellite/Wallos/commit/5629a319bc5eb6cb80abfca06725aed9d2d9df88))
+
+
+### Bug Fixes
+
+* add autocomplete attribute to inputes ([#926](https://github.com/ellite/Wallos/issues/926)) ([5629a31](https://github.com/ellite/Wallos/commit/5629a319bc5eb6cb80abfca06725aed9d2d9df88))
+
 ## [4.3.0](https://github.com/ellite/Wallos/compare/v4.2.0...v4.3.0) (2025-09-15)
 
 
